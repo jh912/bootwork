@@ -1,0 +1,13 @@
+.my_bg{background: #363d4d;}
+a:hover{text-decoration: none;color: #00c091 !important;}
+.my_color{color:#c9caca;}
+.img{width: 100px;height: 100px;}
+.my_width{width: 95%;}
+.my_width1{width:70%;}
+#s1 ul li h6{color: #666;}
+.p_bg{color: #3d3d3d;background: #000;}
+.mg_bor{border-radius: 4px !important;}
+.img1{width: 50px;height:50px;
+		border-radius: 50%;
+		margin: 10px 10px;
+	}

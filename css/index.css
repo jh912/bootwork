@@ -1,0 +1,58 @@
+.carousel-control-prev,.carousel-control-next{
+    		width: 4%;
+    		height: 20%;
+    		top: 40%;
+    		border-radius: 4px;
+    		background-color: #aaa;
+    	}
+    	.carousel-control-prev{
+    		left: 5px;
+    	}
+    	.carousel-control-next{
+    		right: 5px;
+    	}
+    	.carousel-indicators .active{
+    		background-color: #0aa1ed;
+    	}
+    	.carousel-indicators li{
+    		width: 15px;
+    		height: 15px;
+    		border-radius: 50%;
+    		margin-left: 0.3rem;
+    		margin-right: 0.3rem;
+    	}
+        .i1:hover{
+            transition:transform 1s;
+            transform: scale(1.05);
+
+        }
+.hc{
+    color:black;
+}
+.form-control{
+    width: 280px;
+    height: 40px;
+    background-color: #ddd;
+}
+.hc1{
+    color: green;
+}
+.hw1{
+    width: 90%;
+}
+.hh:hover{
+    color:green;
+    border-bottom: 3px solid green;
+
+}
+.nav-pills .nav-link{
+    border-radius: 0.5rem;
+    background-color: rgba(0,255,0,0.5);
+}
+.f1{
+    transition: all 1s;
+}
+.f1:hover{
+    background-color: pink;
+    transform: scale(1.1);
+}
